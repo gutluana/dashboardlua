@@ -1,6 +1,7 @@
-# ![image](https://user-images.githubusercontent.com/36938558/175182578-5805b8be-8593-4b19-90f8-2431e6930e30.png)
+# ![image](https://user-images.githubusercontent.com/36938558/175182578-5805b8be-8593-4b19-90f8-2431e6930e30.png) 
 
 
+>Dados sobre o COVID na cidade de campinas
 Uso Básico
 Após o download, basta editar os arquivos HTML e CSS incluídos no modelo em seu editor de texto favorito para fazer alterações. Estes são os únicos arquivos que você precisa se preocupar, você pode ignorar todo o resto! Para pré-visualizar as alterações que você faz no código, você pode abrir o arquivo index.html no seu navegador.
 
@@ -15,3 +16,5 @@ Pagina inicial:
 formulario para armazenamento de dados:
 
 ![image](https://user-images.githubusercontent.com/36938558/175182080-9efe5849-7890-43c6-85df-b4a32a57b145.png)
+
+© 2022 Desenvolvido por: Luana Gut
