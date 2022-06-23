@@ -1,4 +1,4 @@
-#[image](https://user-images.githubusercontent.com/36938558/175182269-0d466a63-eb46-4626-8810-ce65b46b2380.png)
+# ![image](https://user-images.githubusercontent.com/36938558/175182578-5805b8be-8593-4b19-90f8-2431e6930e30.png)
 
 
 Uso Básico
@@ -8,8 +8,10 @@ Projeto foi realizado para a apresentação de um dashboard na disciplina de DWE
 
 foi utilizado o banco NoSQL no firebase o firestore e o servidor hosting para hospedar o site que se encontra em: https://dashboardlua.web.app/index.html
 
-Pagina inicial
+Pagina inicial:
+
 ![image](https://user-images.githubusercontent.com/36938558/175182035-5c630eed-d697-4078-b5a7-1139be5c8d1b.png)
 
-formulario para armazenamento de dados
+formulario para armazenamento de dados:
+
 ![image](https://user-images.githubusercontent.com/36938558/175182080-9efe5849-7890-43c6-85df-b4a32a57b145.png)
