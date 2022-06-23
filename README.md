@@ -1,8 +1,10 @@
 # ![image](https://user-images.githubusercontent.com/36938558/175182578-5805b8be-8593-4b19-90f8-2431e6930e30.png) 
 
 
->Dados sobre o COVID na cidade de campinas
-Uso Básico
+>Dados sobre o COVID na cidade de campinas!
+
+
+- Uso Básico
 Após o download, basta editar os arquivos HTML e CSS incluídos no modelo em seu editor de texto favorito para fazer alterações. Estes são os únicos arquivos que você precisa se preocupar, você pode ignorar todo o resto! Para pré-visualizar as alterações que você faz no código, você pode abrir o arquivo index.html no seu navegador.
 
 Projeto foi realizado para a apresentação de um dashboard na disciplina de DWE5 em 2022 no Instituto Federal de Campinas com a professora Bianca.
