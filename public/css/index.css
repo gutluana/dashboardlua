@@ -1,0 +1,28 @@
+#title{
+    background-color: rgb(240, 179, 213);
+    text-align: center;
+    font-style:italic;  
+}
+
+#table1{
+
+    margin-left:  5%;
+    text-align: center;
+    margin-top: -5%;
+
+}
+
+#table2{
+
+    text-align: center;
+    position:relative;
+    margin-top: -5%;
+    
+}
+
+#table3{
+
+    text-align: center;
+    margin-right: 5%;
+    margin-top: -8%;
+}
